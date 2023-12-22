@@ -6,7 +6,13 @@ to the console (the panel on the right)
 
 
 
-console.log("Hello World!");
+console.log("Hello World! two chains");
+console.log("Hello World! two chains");
+console.log("Hello World! two chains");
+console.log("Hello World! two chains");
+console.log("Hello World! two chains");
+console.log("Hello World! two chains");
+console.log("Hello World! two chains");
 
 /*  
 Next, PLAY! 
